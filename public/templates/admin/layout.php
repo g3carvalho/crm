@@ -1,0 +1,1 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title><?= e($title ?? 'Admin') ?></title><meta name="robots" content="noindex,nofollow"><link rel="stylesheet" href="/assets/css/site.css"></head><body><main class="container admin"><?php include __DIR__ . '/' . $view . '.php'; ?></main></body></html>
