@@ -1,0 +1,29 @@
+[pesquisa]
+keyword: placa de acm
+titulo: {KeyWord:Placa de ACM para Fachada}
+titulo: Placa de ACM com instalação
+titulo: Placa de ACM em Campo Grande
+titulo: Vistoria grátis
+titulo: 90 dias de garantia
+titulo: Orçamento sem compromisso
+titulo: Instalação em 10 a 15 dias
+titulo: Resposta em minutos
+titulo: Mais de 15 anos em fachadas
+titulo: Fabricação própria em MS
+titulo: Medimos, fazemos e instalamos
+titulo: Atendemos todo o MS
+titulo: Placa que não desbota no sol
+titulo: Sua fachada nova em ACM
+titulo: Peça seu orçamento
+descricao: Placa de ACM para fachada sob medida. Medimos, fabricamos e instalamos sem terceirizar.
+descricao: Vistoria grátis e 90 dias de garantia. Instalação em 10 a 15 dias após aprovar.
+descricao: Mais de 15 anos fazendo placas e fachadas em ACM em Campo Grande e todo o MS.
+descricao: Peça seu orçamento pelo site e a gente chama você no WhatsApp em minutos.
+path: Placa-ACM
+path: Campo-Grande
+
+[rastreamento]
+sufixo: utm_source=google&utm_medium=pesquisa&utm_campaign=leads_pesquisa_fachada_acm&utm_term=%7Bkeyword%7D&utm_content=02_placa_de_acm
+
+[extensoes]
+snippet: Tipos | Placa de ACM | ACM com letra caixa | ACM com LED | Totem em ACM | Letreiro luminoso
