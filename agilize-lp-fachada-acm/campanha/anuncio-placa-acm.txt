@@ -1,3 +1,4 @@
+# Fixações: título "{KeyWord:Placa de ACM para Fachada}" na posição 1; título "Fachada pronta, não só a chapa" na posição 2; descrição "Placa de ACM para fachada sob medida..." na posição 1. Demais sem fixação.
 [pesquisa]
 keyword: placa de acm
 titulo: {KeyWord:Placa de ACM para Fachada}
@@ -12,7 +13,7 @@ titulo: Mais de 15 anos em fachadas
 titulo: Fabricação própria em MS
 titulo: Medimos, fazemos e instalamos
 titulo: Atendemos todo o MS
-titulo: Placa que não desbota no sol
+titulo: Fachada pronta, não só a chapa
 titulo: Sua fachada nova em ACM
 titulo: Peça seu orçamento
 descricao: Placa de ACM para fachada sob medida. Medimos, fabricamos e instalamos sem terceirizar.
